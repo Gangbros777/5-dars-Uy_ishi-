@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+h1{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 280px;
+    font-weight: 600;
+}
